@@ -3,9 +3,6 @@ import tkinter as tk
 def handle_press():
     return
 
-    
-
-
 # Create the main window
 window = tk.Tk()
 window.title("Simple Calculator")
