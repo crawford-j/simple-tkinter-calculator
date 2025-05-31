@@ -1,4 +1,4 @@
-# A basic calculator built with Python and Tkinter that performs addition, subtraction, multiplication, and division. 
+# A basic calculator built with Python and Tkinter that performs addition, subtraction, multiplication, and division.
 # This project is designed to help me deepen my understanding of Python programming and GUI development using the Tkinter library. 
 import tkinter as tk
 
